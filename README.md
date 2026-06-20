@@ -39,3 +39,4 @@ Since the retention metrics (`retention_1` and `retention_7`) are **binary categ
 - **Data Manipulation:** Pandas, NumPy
 - **Statistical Analysis:** Scipy.stats (Chi-Square Contingency)
 - **Data Visualization:** Matplotlib, Seaborn
+![Retention Comparison Chart](retention_plot.png)
